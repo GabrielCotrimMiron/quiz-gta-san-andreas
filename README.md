@@ -1,6 +1,6 @@
 # Quiz GTA San Andreas 🧠🚗💥
 
-![Prévia do Projeto](Images/preview.png)
+![Prévia do Projeto](Images/background_github.png)
 
 Prepare-se para testar seus conhecimentos sobre um dos maiores clássicos dos videogames!  
 Neste quiz inspirado em **GTA San Andreas**, você precisa acertar perguntas sobre personagens, cidades, rádios e muito mais do universo do CJ. Será que você manja mesmo?
