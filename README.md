@@ -33,7 +33,7 @@ Neste quiz inspirado em **GTA San Andreas**, você precisa acertar perguntas sob
 
 ---
 
-💡 **Este projeto foi criado como parte dos meus estudos em JavaScript e Front-end, com foco em lógica de programação e interatividade.**
+💡 **Este projeto foi desenvolvido durante a Imersão Dev 9ª Edição da Alura, com adaptações e melhorias pessoais aplicadas na lógica e na interface.**
 
 ---
 
