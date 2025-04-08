@@ -1,2 +1,40 @@
-# quiz-gta-san-andreas
-Quiz interativo sobre o universo de GTA San Andreas, desenvolvido com HTML, CSS e JavaScript. Teste seus conhecimentos e descubra se você é mesmo um verdadeiro morador de Los Santos!
+# Quiz GTA San Andreas 🧠🚗💥
+
+![Prévia do Projeto](Images/preview.png)
+
+Prepare-se para testar seus conhecimentos sobre um dos maiores clássicos dos videogames!  
+Neste quiz inspirado em **GTA San Andreas**, você precisa acertar perguntas sobre personagens, cidades, rádios e muito mais do universo do CJ. Será que você manja mesmo?
+
+🚀 **Acesse o projeto online:** [Clique aqui](https://gabrielcotrimmiron.github.io/quiz-gta-san-andreas/)  
+
+---
+
+## 📌 Como Funciona?
+
+- São **10 perguntas** de múltipla escolha sobre o mundo de GTA San Andreas.  
+- Cada pergunta possui **apenas uma alternativa correta**.  
+- A cada resposta certa, sua pontuação aumenta!  
+- No final, você descobre **quantas acertou** e pode **recomeçar o quiz**.
+
+---
+
+## 🛠 Tecnologias Usadas
+
+- **HTML**  
+- **CSS**  
+- **JavaScript**
+
+---
+
+## 🎯 Implementações Extras
+  
+- ✅ Botão para **recomeçar** o quiz sem recarregar a página.  
+- ✅ Interface responsiva e com visual inspirado no estilo do jogo.
+
+---
+
+💡 **Este projeto foi criado como parte dos meus estudos em JavaScript e Front-end, com foco em lógica de programação e interatividade.**
+
+---
+
+📧 **Contato:** gabrielcmiron@gmail.com
